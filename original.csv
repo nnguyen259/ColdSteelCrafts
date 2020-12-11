@@ -1,4 +1,4 @@
-342,6,PMBI,30,4,0,33,1,12,80,50,0,31,50,8,0,30,30,255,26,2,AniBtlCraft02,Reckless Charge Formation,"[Support - Area (XL/Self) - STR/SPD+50% - DEF-50%]
+342,6,PMBI,30,4,0,33,1,12,80,50,0,31,50,8,0,30,30,255,26,2,AniBtlCraft02,Charge Formation,"[Support - Area (XL/Self) - STR/SPD+50% - DEF-50%]
 Preparing for an all out charge, abandoning defense in the process."
-392,8,MBI,30,4,0,30,0,1,5,35,0,81,0,0,0,0,0,255,25,2,AniBtlCraft02,Wild Advance,"[Support - Self - HP-35% - Double Turn]
-Go beyond the limit to act twice."
+392,8,MBI,30,4,0,30,0,1,5,35,0,81,0,0,0,0,30,255,25,2,AniBtlCraft02,Wild Advance,"[Support - Self - HP-35% - Double Turn]
+Gain the power to go even further and beyond. Credit: Ashce."
