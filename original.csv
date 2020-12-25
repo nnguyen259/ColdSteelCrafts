@@ -8,7 +8,7 @@ Go out there and fight, for next time it will be worse."
 (Class S) Imagine if explosives actually hurt both sides. Unbalance+20%."
 283,4,PMBI,30,4,0,12,100,100,201,0,0,81,0,0,0,0,120,255,57,3,AniBtlCraft03,Time Break,"[Support - All - Accelerate - Double Turn]
 Breaks the time barrier, turn the tide of battle."
-244,2,EBI,30,2,0,30,100,1,29,25,0,28,40,0,0,30,40,255,9,0,AniBtlCraft04,Depravity,"[Debuff - One - All Stat-25% - Random Affliction]
+244,2,EBI,30,2,0,30,100,1,41,25,0,40,90,0,0,30,40,255,9,0,AniBtlCraft04,Depravity,"[Debuff - One - All Stat-25% - Random Affliction]
 Inflict various debuffs upon your foe."
-244,2,EBI,30,2,0,12,100,100,58,25,0,0,0,0,0,30,40,255,9,0,AniBtlCraft04,Miserable Mist,"[Debuff - All - STR/DEF-25%]
+244,2,EBI,30,2,0,12,100,100,88,25,0,0,0,0,0,30,40,255,9,0,AniBtlCraft04,Miserable Mist,"[Debuff - All - STR/DEF-25%]
 Weaken foes through misery."
